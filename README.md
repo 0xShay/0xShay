@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/0xShay?template=terminal&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLondon)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShay&langs_count=5&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/0xShay?theme=dark&font=Fira%20Mono&ext=heatmap)
+
