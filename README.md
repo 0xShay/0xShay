@@ -10,6 +10,7 @@
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
 | [Simulated Orderbook CLI](https://github.com/0xShay/rust-orderbook) | Rust / Cargo | CLI orderbook simulator, type-safe & fast |
+| [Halflink](https://github.com/0xShay/halflink) | Spring Boot / Java | Full-stack URL shortlink generation application, Spring Boot Data JPA |
 | [TicketChain](https://github.com/0xShay/ticketchain) | React / TS / Solidity / NextJS | Blockchain ticket booking, hackathon 3rd place |
 | [SupportMe](https://github.com/0xShay/SupportMe) | Flask / SQLite / Python / JS | Web-based support ticket system, JWT auth |
 | [BananoPlanet](https://bananoplanet.cc) | NodeJS / MongoDB / Express / JS | Crypto distribution & mining pool, 200k+ payouts |
@@ -66,6 +67,4 @@
 ---
 
 ## 📫 Contact
-[Email](mailto:shay@shay.services) | [GitHub](https://github.com/0xShay) | [LinkedIn](https://www.linkedin.com/in/shay-patel)
-
-Based in the United Kingdom.
+[Website](https://shay.services) | [Email](mailto:shay@shay.services) | [GitHub](https://github.com/0xShay) | [LinkedIn](https://www.linkedin.com/in/shay-patel)
